@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, Git and Github!
+=======
+
+>>>>>>> 87425522e35686f377047c6505bba318aedad619
